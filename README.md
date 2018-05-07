@@ -2,7 +2,6 @@
 Tic Tac Toe game which supports single player and 2 player modes. Game prints results of winner, and prints messages indicating a tie.
 
 ## Included Files
-* TexRect includes logic behind converting .bmp files to textures
 * App includes logic in drawing the scene and logic behind user interface
 * app_main generates the application
 
